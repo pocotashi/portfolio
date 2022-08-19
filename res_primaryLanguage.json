@@ -1,0 +1,105 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Chosum Tashi. I'm working with front-end framework like React.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Kipu's Rescue",
+        "startDate": "2022",
+        "description": "Kipu’s Rescue is an animal rescue site that allows users to view adoptable pets, fill up adoption form, shop. I Integrated firebase SDK for firestore, enabling users to fill up adoption form, and make a `donation` which are securely stored in firestore database Shop allows users to add items to their cart, update their cart and delete items in their card Integrated MailChimp to enable users to sign up for newsletter",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "https://lasttry-c7d14.web.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          }
+        ]
+      },
+      {
+        "title": "Hands on Hearts",
+        "startDate": "2022",
+        "description": "HandsonHearts is a CPR school website that allows users to create accounts, and signup for CPR classes. Integrated firebase SDK for firebase auth, enabling users to signup, login and reset password. Integrated firebase SDK for firestore, enabling users to register for class which is securely stored in firestore database",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "Tailwind"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          }
+        ]
+      },
+      {
+        "title": "Blackjack",
+        "startDate": "2022",
+        "description": "A blackjack game where allows a user can play the game with the dealer (comp). Allow dealer to hit or stay based on their sum of the cards. Created logic to track and change values of `Ace`. Track game state and card values for initial win condition of blackjack",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      
+      {
+        "company": "MVP Lifeguards",
+        "title": "Aquatics Director",
+        "years": "02.2022 - 06.2022",
+        "technologies": [
+          "Manage operation of the program that served 3 schools.",
+          "Maintain records of students’ progression, and attendance for all 3 schools.",
+          "Supervised lifeguards and swim instructors.",
+          "Attend weekly meetings to implement changes for growth and development"
+        ]
+      },
+      {
+        "company": "Ramapo for Children",
+        "title": "Pool Director",
+        "years": "06.2021 - 09.2021",
+        "technologies": [
+          "Supervised 22 lifeguards.\n",
+          "Responsible for pool maintenance e.g., testing pool chemicals daily 3 times a day."
+          ,
+          "Trained and certified the lifeguard candidates.",
+          "Maintained communication lines within and between other depts."
+
+        ]
+      }
+    ]
+  }

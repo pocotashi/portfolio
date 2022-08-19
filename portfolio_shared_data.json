@@ -1,0 +1,90 @@
+{
+    "basic_info": {
+      "name": "Chosum Tashi",
+      "titles": [ "Front-end Developer", "Back-end Developer", "Swim Instructor", "Founder & CPR Instructor" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/pocotashi",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/handsonheartsnyc/",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "luffy.jpeg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "90"
+        },
+      
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "Tailwind",
+          "class": "devicon-tailwindcss-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "75"
+        },
+        {
+          "name": "git",
+          "class": "devicon-git-plain",
+          "level": "75"
+        },
+        {
+          "name": "Node JS",
+          "class": "devicon-nodejs-plain",
+          "level": "75"
+        },
+        {
+          "name": "Figma",
+          "class": "devicon-figma-plain",
+          "level": "75"
+        },
+        {
+          "name": "Firebase",
+          "class": "devicon-firebase-plain",
+          "level": "75"
+        }
+      ]
+    }
+  }
