@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Chosum Tashi. I'm working with front-end framework like React.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,33 +11,33 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Kipu's Rescue",
+        "startDate": "2022",
+        "description": "Kipu’s Rescue is an animal rescue site that allows users to view adoptable pets, fill up adoption form, shop. I Integrated firebase SDK for firestore, enabling users to fill up adoption form, and make a `donation` which are securely stored in firestore database Shop allows users to add items to their cart, update their cart and delete items in their card Integrated MailChimp to enable users to sign up for newsletter",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "",
+        "url": "https://lasttry-c7d14.web.app/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Hands on Hearts",
+        "startDate": "2022",
+        "description": "HandsonHearts is a CPR school website that allows users to create accounts, and signup for CPR classes. Integrated firebase SDK for firebase auth, enabling users to signup, login and reset password. Integrated firebase SDK for firestore, enabling users to register for class which is securely stored in firestore database",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
@@ -49,15 +49,19 @@
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-tailwindcss-plain",
+            "name": "Tailwind"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Blackjack",
+        "startDate": "2022",
+        "description": "A blackjack game where allows a user can play the game with the dealer (comp). Allow dealer to hit or stay based on their sum of the cards. Created logic to track and change values of `Ace`. Track game state and card values for initial win condition of blackjack",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -65,53 +69,36 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-python-plain",
+            "name": "Python"
           }
         ]
       }
     ],
     "experience": [
+      
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
+        "company": "MVP Lifeguards",
+        "title": "Aquatics Director",
+        "years": "02.2022 - 06.2022",
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Manage operation of the program that served 3 schools.",
+          "Maintain records of students’ progression, and attendance for all 3 schools.",
+          "Supervised lifeguards and swim instructors.",
+          "Attend weekly meetings to implement changes for growth and development"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
+        "company": "Ramapo for Children",
+        "title": "Pool Director",
+        "years": "06.2021 - 09.2021",
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Supervised 22 lifeguards.\n",
+          "Responsible for pool maintenance e.g., testing pool chemicals daily 3 times a day."
+          ,
+          "Trained and certified the lifeguard candidates.",
+          "Maintained communication lines within and between other depts."
+
         ]
       }
     ]
