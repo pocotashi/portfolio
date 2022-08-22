@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Chosum Tashi. I'm working with front-end framework like React.",
+      "description": "👋 I'm Tashi. I am a self-taught web developer. Aside from problem solving, I enjoy reading One Piece, JJK, Hero Academia, and many more. If you would to get in touch you can reach me in my socials or email me at tashitigershark@gmail.com",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -42,7 +42,7 @@
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://cpronwheels-2153c.web.app/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -66,7 +66,7 @@
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://replit.com/@tigerShark90/blackjack-start-1#main.py",
         "technologies": [
           {
             "class": "devicon-python-plain",
@@ -83,9 +83,9 @@
         "years": "02.2022 - 06.2022",
         "technologies": [
           "Manage operation of the program that served 3 schools.",
-          "Maintain records of students’ progression, and attendance for all 3 schools.",
-          "Supervised lifeguards and swim instructors.",
-          "Attend weekly meetings to implement changes for growth and development"
+          "Recorded students’ progression, and attendance.",
+          "Supervised lifeguards and swim instructors."
+          
         ]
       },
       {
@@ -93,11 +93,10 @@
         "title": "Pool Director",
         "years": "06.2021 - 09.2021",
         "technologies": [
-          "Supervised 22 lifeguards.\n",
-          "Responsible for pool maintenance e.g., testing pool chemicals daily 3 times a day."
-          ,
-          "Trained and certified the lifeguard candidates.",
-          "Maintained communication lines within and between other depts."
+          "Supervised the lifeguards.",
+          "Responsible for pool maintenance",
+          "Trained and certified the lifeguard candidates."
+          
 
         ]
       }
